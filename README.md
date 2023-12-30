@@ -18,5 +18,7 @@ Here is a short description of the files
 
 :: Graphs/   :    directory for 17 replication AND extesion figures for Stata-lab purpose.
 
+Here is a quick view:
+:[fivec](https://github.com/BWaaaa/AdvancedDID/blob/1333f5b57966537a8092154887cd067a393af60f/Graphs/figure17_fivecombine.png)
 
 ![figure17_fivecombine](https://github.com/BWaaaa/AdvancedDID/Graphs/figure17_fivecombine)
