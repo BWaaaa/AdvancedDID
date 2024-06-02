@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T02:47:09.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="x1bw76HqEInQDemb2GQe" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T11:35:41.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XyUm6Izy45bVkPbmpx0G" version="24.4.13" type="github">
   <diagram name="第 1 页" id="TJlREFRVbjQbi90u0qth">
     <mxGraphModel dx="934" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,27 +24,23 @@
         <mxCell id="6NIygA2UcwXDgmvHAig5-10" value="静态问题（ 一期 ）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6NIygA2UcwXDgmvHAig5-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6NIygA2UcwXDgmvHAig5-12" target="6NIygA2UcwXDgmvHAig5-82">
+        <mxCell id="6NIygA2UcwXDgmvHAig5-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6NIygA2UcwXDgmvHAig5-82">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="714.9999999999998" y="436" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="715" y="490" />
-              <mxPoint x="575" y="490" />
+              <mxPoint x="715" y="451" />
+              <mxPoint x="575" y="451" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6NIygA2UcwXDgmvHAig5-12" value="健康习惯，健康管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="435" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6NIygA2UcwXDgmvHAig5-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6NIygA2UcwXDgmvHAig5-15" target="6NIygA2UcwXDgmvHAig5-82">
+        <mxCell id="6NIygA2UcwXDgmvHAig5-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6NIygA2UcwXDgmvHAig5-82">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434.9999999999998" y="436" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="435" y="490" />
-              <mxPoint x="575" y="490" />
+              <mxPoint x="435" y="451" />
+              <mxPoint x="575" y="451" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6NIygA2UcwXDgmvHAig5-15" value="离散选择模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="435" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6NIygA2UcwXDgmvHAig5-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6NIygA2UcwXDgmvHAig5-18" target="6NIygA2UcwXDgmvHAig5-50">
           <mxGeometry relative="1" as="geometry" />
@@ -67,13 +63,11 @@
         <mxCell id="6NIygA2UcwXDgmvHAig5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6NIygA2UcwXDgmvHAig5-10" target="6NIygA2UcwXDgmvHAig5-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6NIygA2UcwXDgmvHAig5-81" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6NIygA2UcwXDgmvHAig5-27">
+        <mxCell id="6NIygA2UcwXDgmvHAig5-81" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="574.9411764705881" y="505" as="targetPoint" />
+            <mxPoint x="574.9411764705881" y="436" as="sourcePoint" />
+            <mxPoint x="574.9411764705881" y="466" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6NIygA2UcwXDgmvHAig5-27" value="Grossman模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="435" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6NIygA2UcwXDgmvHAig5-11" value="动态问题（ 跨期 ）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="120" width="110" height="40" as="geometry" />
@@ -109,7 +103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6NIygA2UcwXDgmvHAig5-37" value="政策建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="505" width="80" height="40" as="geometry" />
+          <mxGeometry x="237.5" y="466" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6NIygA2UcwXDgmvHAig5-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6NIygA2UcwXDgmvHAig5-32" target="6NIygA2UcwXDgmvHAig5-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -188,17 +182,17 @@
         </mxCell>
         <mxCell id="6NIygA2UcwXDgmvHAig5-74" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.86;entryY=-0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="753.04" y="504" as="targetPoint" />
-            <mxPoint x="771.01" y="526.94" as="sourcePoint" />
+            <mxPoint x="753.04" y="465" as="targetPoint" />
+            <mxPoint x="771.01" y="487.94000000000005" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="788.04" y="527" />
-              <mxPoint x="788.04" y="487" />
-              <mxPoint x="753.04" y="487" />
+              <mxPoint x="788.04" y="488" />
+              <mxPoint x="788.04" y="448" />
+              <mxPoint x="753.04" y="448" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6NIygA2UcwXDgmvHAig5-82" value="通过健康素养的持续提升，优化医疗资源配置，增加患者福利" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="505" width="390" height="40" as="geometry" />
+          <mxGeometry x="380" y="466" width="390" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
