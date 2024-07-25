@@ -97,8 +97,8 @@
         <mxCell id="6NIygA2UcwXDgmvHAig5-76" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" parent="1" source="6NIygA2UcwXDgmvHAig5-36" target="6NIygA2UcwXDgmvHAig5-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6NIygA2UcwXDgmvHAig5-36" value="潜在机制" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="395" width="80" height="40" as="geometry" />
+        <mxCell id="6NIygA2UcwXDgmvHAig5-36" value="研究数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="355" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6NIygA2UcwXDgmvHAig5-84" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" parent="1" source="6NIygA2UcwXDgmvHAig5-37" target="6NIygA2UcwXDgmvHAig5-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -141,7 +141,7 @@
           <mxGeometry x="520" y="395" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6NIygA2UcwXDgmvHAig5-50" value="主观风险偏好" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="380" y="395" width="110" height="40" as="geometry" />
+          <mxGeometry x="380" y="355" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6NIygA2UcwXDgmvHAig5-82" value="通过健康素养的持续提升，优化医疗资源配置，增加患者福利" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="380" y="466" width="390" height="40" as="geometry" />
