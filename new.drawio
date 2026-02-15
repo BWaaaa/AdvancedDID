@@ -1,9 +1,173 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.4.0">
   <diagram name="Page-1" id="PXdNP13kUIIr55AFfcab">
-    <mxGraphModel>
+    <mxGraphModel dx="1177" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;极端天气对劳动力工作、收入的影响：以斐济海洋捕鱼行业为例&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="390" x="352.5" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-2" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kYHKoMrAiWybrNTnfTFu-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="政府适应性政策" vertex="1">
+          <mxGeometry height="40" width="110" x="622.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-4" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407.4999999999998" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-5" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407.5" y="242.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="企业" vertex="1">
+          <mxGeometry height="40" width="110" x="352.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=13;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="681.5" y="440" />
+              <mxPoint x="541.5" y="440" />
+            </Array>
+            <mxPoint x="681.4999999999998" y="425" as="sourcePoint" />
+            <mxPoint x="542.5" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=13;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="401.5" y="442" />
+              <mxPoint x="541.5" y="442" />
+            </Array>
+            <mxPoint x="401.4999999999998" y="427" as="sourcePoint" />
+            <mxPoint x="541.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-33" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407.5" y="332.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-10" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kYHKoMrAiWybrNTnfTFu-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="极端天气事件如何影响斐济家庭的收入和储蓄行为？&lt;br&gt;&lt;p style=&quot;margin-top: 0cm; margin-right: 0cm; margin-left: 22pt; text-align: justify; line-height: 150%; font-size: 13px;&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="110" x="482.5" y="242.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-12" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kYHKoMrAiWybrNTnfTFu-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=13;" value="政府实施的保险政策在缓解极端天气对斐济海洋捕捞业影响方面的效果&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;margin-top: 0cm; margin-right: 0cm; margin-left: 22pt; line-height: 150%; font-size: 13px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="110" x="622.5" y="242.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-14" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-15" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="541.4411764705881" y="427" as="sourcePoint" />
+            <mxPoint x="541.4411764705881" y="457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-16" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="537.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="家户" vertex="1">
+          <mxGeometry height="40" width="110" x="482.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="研究主题" vertex="1">
+          <mxGeometry height="40" width="80" x="210" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-19" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-18" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="572.5" y="260" as="sourcePoint" />
+            <mxPoint x="622.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-20" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-21" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352.5" y="287.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="研究问题" vertex="1">
+          <mxGeometry height="40" width="80" x="210" y="267.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-23" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-24" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="研究数据" vertex="1">
+          <mxGeometry height="40" width="80" x="210" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-26" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="政策建议" vertex="1">
+          <mxGeometry height="40" width="80" x="210" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-28" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-18" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="572.5" y="260" as="sourcePoint" />
+            <mxPoint x="622.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-29" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="522.5" y="110" />
+              <mxPoint x="522.5" y="130" />
+              <mxPoint x="407.5" y="130" />
+            </Array>
+            <mxPoint x="557.5" y="120" as="sourcePoint" />
+            <mxPoint x="557.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-30" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="522.5" y="110" />
+              <mxPoint x="522.5" y="130" />
+              <mxPoint x="537.5" y="130" />
+            </Array>
+            <mxPoint x="557.5" y="120" as="sourcePoint" />
+            <mxPoint x="417.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="斐济政府或金融机构的数据" vertex="1">
+          <mxGeometry height="40" width="110" x="622.5" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Fiji Household Income and Expenditure Survey 20&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="135" x="470" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="企业财务数据" vertex="1">
+          <mxGeometry height="40" width="110" x="352.5" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-34" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=13;" value="发挥中国企业如何在提升斐济、萨摩亚气候变化韧性中的积极作用" vertex="1">
+          <mxGeometry height="40" width="390" x="347.5" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-35" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fontFamily=宋体;fontSize=13;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="522.5" y="130" />
+              <mxPoint x="672.5" y="130" />
+            </Array>
+            <mxPoint x="522.5" y="100" as="sourcePoint" />
+            <mxPoint x="672.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="极端天气如何影响企业的员工雇佣人数和合同形式？&lt;br&gt;&lt;p style=&quot;margin-top: 0cm; margin-right: 0cm; margin-left: 22pt; text-align: justify; line-height: 150%; font-size: 13px;&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="110" x="352.5" y="242.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
