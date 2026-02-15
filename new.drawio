@@ -5,64 +5,15 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kYHKoMrAiWybrNTnfTFu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;健康素养对健康需求的影响研究&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="390" x="262.5" y="70" as="geometry" />
+          <mxGeometry height="40" width="397.5" x="232.5" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="政府适应性政策" vertex="1">
-          <mxGeometry height="40" width="110" x="662.5" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="企业" vertex="1">
-          <mxGeometry height="40" width="110" x="392.5" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=13;">
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-10" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="kYHKoMrAiWybrNTnfTFu-41" value="">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="591.5" y="440" />
-              <mxPoint x="451.5" y="440" />
-            </Array>
-            <mxPoint x="591.4999999999998" y="425" as="sourcePoint" />
-            <mxPoint x="452.5" y="470" as="targetPoint" />
+            <mxPoint x="414" y="350" as="sourcePoint" />
+            <mxPoint x="414" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=13;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="311.5" y="442" />
-              <mxPoint x="451.5" y="442" />
-            </Array>
-            <mxPoint x="311.4999999999998" y="427" as="sourcePoint" />
-            <mxPoint x="451.5" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-33" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="317.5" y="332.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-10" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kYHKoMrAiWybrNTnfTFu-32" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="极端天气事件如何影响斐济家庭的收入和储蓄行为？&lt;br&gt;&lt;p style=&quot;margin-top: 0cm; margin-right: 0cm; margin-left: 22pt; text-align: justify; line-height: 150%; font-size: 13px;&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="110" x="392.5" y="242.5" as="geometry" />
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-12" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kYHKoMrAiWybrNTnfTFu-31" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fontSize=13;" value="政府实施的保险政策在缓解极端天气对斐济海洋捕捞业影响方面的效果&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;margin-top: 0cm; margin-right: 0cm; margin-left: 22pt; line-height: 150%; font-size: 13px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="110" x="532.5" y="242.5" as="geometry" />
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-14" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-15" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="451.44117647058806" y="427" as="sourcePoint" />
-            <mxPoint x="451.44117647058806" y="457" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="家户" vertex="1">
-          <mxGeometry height="40" width="110" x="522.5" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="研究主题" vertex="1">
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="研究问题" vertex="1">
           <mxGeometry height="40" width="80" x="120" y="70" as="geometry" />
         </mxCell>
         <mxCell id="kYHKoMrAiWybrNTnfTFu-19" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-18" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-1" value="">
@@ -74,49 +25,77 @@
         <mxCell id="kYHKoMrAiWybrNTnfTFu-20" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-21" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" value="">
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-21" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kYHKoMrAiWybrNTnfTFu-37" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="262.5" y="287.5" as="targetPoint" />
+            <mxPoint x="230" y="288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="研究问题" vertex="1">
-          <mxGeometry height="40" width="80" x="120" y="267.5" as="geometry" />
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="理论研究" vertex="1">
+          <mxGeometry height="40" width="80" x="120" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-23" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-27" value="">
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-23" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kYHKoMrAiWybrNTnfTFu-40" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-50" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="kYHKoMrAiWybrNTnfTFu-38" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-24" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-33" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="实证研究" vertex="1">
+          <mxGeometry height="40" width="80" x="120" y="282" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="研究数据" vertex="1">
-          <mxGeometry height="40" width="80" x="120" y="385" as="geometry" />
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-34" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="490" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-26" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-34" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="政策建议" vertex="1">
-          <mxGeometry height="40" width="80" x="120" y="470" as="geometry" />
-        </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-28" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-18" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-22" value="">
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-28" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-18" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-46" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="482.5" y="260" as="sourcePoint" />
             <mxPoint x="532.5" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="斐济政府或金融机构的数据" vertex="1">
-          <mxGeometry height="40" width="110" x="532.5" y="385" as="geometry" />
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;第三章：健康素养的动态人力资本理论模型&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="397.5" x="232.5" y="202" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Fiji Household Income and Expenditure Survey 20&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="135" x="380" y="385" as="geometry" />
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;第四章：健康素养对医疗支出的非线性影响：新闻IV和双重机器学习&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="397.5" x="232.5" y="252" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="企业财务数据" vertex="1">
-          <mxGeometry height="40" width="110" x="262.5" y="385" as="geometry" />
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;第五章：健康素养、医院选择与医疗支出：基于结构估计模型&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="397.5" x="232.5" y="302" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-34" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSize=13;" value="发挥中国企业如何在提升斐济、萨摩亚气候变化韧性中的积极作用" vertex="1">
-          <mxGeometry height="40" width="390" x="257.5" y="470" as="geometry" />
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-54" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kYHKoMrAiWybrNTnfTFu-41" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="健康素养的动态人力资本模型&lt;p style=&quot;margin-top: 0cm; margin-right: 0cm; margin-left: 22pt; text-align: justify; line-height: 150%; font-size: 13px;&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="40" width="387.5" x="262.5" y="160" as="geometry" />
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="结论与政策建议" vertex="1">
+          <mxGeometry height="40" width="80" x="120" y="366" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;提升健康素养，优化医疗支出效率，提升消费者福利&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="397.5" x="232.5" y="366" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;1. 健康素养的测度和跨国比较&lt;/div&gt;&lt;div&gt;2. 健康素养与医疗支出相关研究&lt;/div&gt;&lt;div&gt;3. 医院选择与道德风险相关研究&lt;/div&gt;" vertex="1">
+          <mxGeometry height="53" width="397.5" x="232.5" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-49" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-55" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kYHKoMrAiWybrNTnfTFu-42" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="文献梳理" vertex="1">
+          <mxGeometry height="40" width="80" x="120" y="134" as="geometry" />
+        </mxCell>
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-53" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="kYHKoMrAiWybrNTnfTFu-39" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="302" />
+              <mxPoint x="220" y="322" />
+            </Array>
+            <mxPoint x="250" y="312" as="sourcePoint" />
+            <mxPoint x="283" y="292" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
