@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.4.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.5.2">
   <diagram name="Page-1" id="PXdNP13kUIIr55AFfcab">
     <mxGraphModel dx="938" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="kYHKoMrAiWybrNTnfTFu-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="实证研究" vertex="1">
           <mxGeometry height="40" width="80" x="120" y="293" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" target="kYHKoMrAiWybrNTnfTFu-34" value="">
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=13;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="490" as="sourcePoint" />
           </mxGeometry>
@@ -58,10 +58,10 @@
         <mxCell id="kYHKoMrAiWybrNTnfTFu-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;第三章：健康素养的动态人力资本理论模型&lt;/div&gt;" vertex="1">
           <mxGeometry height="35" width="397.5" x="232.5" y="213" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;第四章：健康素养对医疗支出的非线性影响：新闻IV和双重机器学习&lt;/div&gt;" vertex="1">
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;第四章：健康素养对医疗支出的影响&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="397.5" x="232.5" y="263" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;第五章：健康素养、医院选择与医疗支出：基于结构估计模型&lt;/div&gt;" vertex="1">
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;第五章：健康素养对就医福利的影响&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="397.5" x="232.5" y="313" as="geometry" />
         </mxCell>
         <mxCell id="kYHKoMrAiWybrNTnfTFu-54" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kYHKoMrAiWybrNTnfTFu-41" value="">
@@ -70,7 +70,7 @@
         <mxCell id="kYHKoMrAiWybrNTnfTFu-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="结论与政策建议" vertex="1">
           <mxGeometry height="40" width="80" x="120" y="383" as="geometry" />
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;提升健康素养，优化医疗支出效率，提升消费者福利&lt;/div&gt;" vertex="1">
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;提升健康素养，优化医疗支出效率，提升社会福利&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="397.5" x="232.5" y="383" as="geometry" />
         </mxCell>
         <mxCell id="kYHKoMrAiWybrNTnfTFu-58" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kYHKoMrAiWybrNTnfTFu-37" value="">
@@ -78,7 +78,7 @@
             <mxPoint x="431" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kYHKoMrAiWybrNTnfTFu-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;1. 健康素养的测度和跨国比较&lt;/div&gt;&lt;div&gt;2. 健康素养与医疗支出相关研究&lt;/div&gt;&lt;div&gt;3. 医院选择与道德风险相关研究&lt;/div&gt;" vertex="1">
+        <mxCell id="kYHKoMrAiWybrNTnfTFu-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;div&gt;1. 健康素养的人力资本内涵研究&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;综述&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. 健康素养与医疗支出相关研究&lt;/div&gt;&lt;div&gt;3. 医院选择与道德风险相关研究&lt;/div&gt;" vertex="1">
           <mxGeometry height="53" width="397.5" x="232.5" y="128" as="geometry" />
         </mxCell>
         <mxCell id="kYHKoMrAiWybrNTnfTFu-49" edge="1" parent="1" source="kYHKoMrAiWybrNTnfTFu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kYHKoMrAiWybrNTnfTFu-22" value="">
